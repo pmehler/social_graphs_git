@@ -1,0 +1,189 @@
+{{Infobox television
+| image         =
+| caption       =
+| genre         = [[Superhero fiction|Superhero]]
+| based_on      = {{based on|[[Superman]]||[[Jerry Siegel]]|[[Joe Shuster]]}}<br>{{based on|[[Aquaman]]||[[Paul Norris]]|[[Mort Weisinger]]}}
+| runtime       = 60 minutes
+| creator       =
+| company       = [[Filmation]]<br>Ducovny Productions<br>[[DC Comics|National Periodical Publications]]
+| distributor   = [[Warner Bros. Television]]
+| director      = [[Hal Sutherland]]
+| voices        = [[Bud Collyer]]<br>[[Marvin Miller (actor)|Marvin Miller]]<br>[[Ted Knight]]
+| producer      = [[Norm Prescott]]<br>[[Lou Scheimer]]
+| executive_producer = Allen Ducovny
+| country       = United States
+| network       = [[CBS]]
+| first_aired   = {{start date|1967|09|09}}
+| last_aired    = {{end date|1968}}
+| num_episodes  = 36
+| list_episodes =
+| preceded_by   = ''[[The New Adventures of Superman (TV series)|The New Adventures of Superman]]''<br>''[[The Adventures of Superboy (TV series)|The Adventures of Superboy]]''
+| followed_by   = ''[[Aquaman (TV series)|Aquaman]]''<br>''[[The Batman/Superman Hour]]''
+| related       = ''[[The Adventures of Batman]]''<br>''[[The Batman/Tarzan Adventure Hour]]''
+}}
+'''''The Superman/Aquaman Hour of Adventure''''' is a Saturday morning [[Filmation]] [[animated series]] that aired on [[CBS]] from 1967 to 1968. Premiering on September 9, 1967, this 60-minute program included a series of six-minute adventures featuring various [[DC Comics]] [[superhero]]es.<ref>{{cite book |last1=Erickson |first1=Hal |title=Television Cartoon Shows: An Illustrated Encyclopedia, 1949 Through 2003 |date=2005 |edition=2nd |publisher=McFarland & Co |isbn=978-1476665993 |pages=812–813}}</ref>
+
+==Overview==
+Each episode consisted of new segments from the existing series, ''[[The New Adventures of Superman (TV series)|The New Adventures of Superman]]'' and ''[[The Adventures of Superboy (TV series)|The Adventures of Superboy]]'', as well as outings for [[Aquaman]] and his sidekick [[Garth (comics)|Aqualad]]. Superman fans generally regard it as the second season of ''The New Adventures''.<ref>{{cite web|url=http://www.supermanhomepage.com/tv/tv.php?topic=episode-guides/t-tnaos |title=''The New Adventures of Superman'': Episode List |website=SupermanHomepage.com|access-date=January 30, 2014}}</ref> As a part of ''The New Adventures'', it is notable for containing some of the final work done by [[Bud Collyer]], the voice actor who had originated the roles of Superman and Clark Kent on [[radio drama|radio]]. It also included a rotating series of "guest star" cartoons featuring the [[Atom (Ray Palmer)|Atom]], the [[Flash (Barry Allen)|Flash]] and [[Wally West|Kid Flash]], the [[Hal Jordan|Green Lantern]], [[Hawkman]] and new shorts from ''[[The Adventures of Superboy (TV series)|The Adventures of Superboy]]''. The [[Justice League|Justice League of America]] (Atom, Flash, Green Lantern, Hawkman, Aquaman and Superman) and [[Teen Titans]] ([[Roy Harper (comics)|Speedy]], Kid Flash, [[Donna Troy|Wonder Girl]], and Aqualad, but not [[Dick Grayson|Robin]]) were also featured in team adventures.
+
+Many of the shorts were penned and script-edited by [[DC Comics]] employees. [[Bob Haney]] and [[George Kashdan]] — the writing-editing team who were then producing the original version of the ''Teen Titans'' comic book<ref>{{cite web|url=http://www.comicbookdb.com/issue.php?ID=17734 |title=''Teen Titans'' #1: Credits |publisher=ComicbookDb.com |access-date=January 30, 2014}}</ref> — were prolific on the series, taking on nearly all the "guest star" cartoons. [[Mort Weisinger]], editor of all ''Superman'' comic titles during the 1960s, served as script editor for the shorts featuring Kal-El. This use of comic writers on the television series tended to make them "a very faithful adaption to the comic book mythos."<ref name="tower">{{cite web|url=http://www.titanstower.com/source/theater/filmation.html|title=Animated Titans: Filmation|publisher=TitansTower.com|access-date=January 30, 2014|archive-url=https://web.archive.org/web/20030102185312/http://www.titanstower.com/source/theater/filmation.html|archive-date=January 2, 2003}}</ref>  Even so, there were some elements which were unique to the cartoons, such as secondary characters in the ''Hawkman'', ''Green Lantern'' and ''Atom'' shorts.
+
+This series marked the animation debut of nearly all of its featured characters and teams. The exceptions were Superman and his supporting cast, who had been previously immortalized in the iconic [[Superman (1940s cartoons)|1940s Superman shorts]] (and later in ''The New Adventures of Superman''), and the Superboy characters, seen in the previous season of ''The Adventures of Superboy''.
+
+==Legacy==
+Due to the success of the show, Filmation had produced a [[Metamorpho]] pilot and planned pilots for [[Plastic Man]] and [[Wonder Woman]]. A DC Comics cartoon hour was also being developed, with concept drawings featuring Metamorpho, Plastic Man, [[Flash (Barry Allen)|The Flash]], [[Blackhawk (DC Comics)|The Blackhawks]], the [[Doom Patrol]], [[B'wana Beast]], the [[Green Arrow]] and the [[Metal Men]]. Plans were cancelled when CBS secured the animation rights to [[Batman]] in the wake of [[American Broadcasting Company|ABC]]'s recent success with the ''[[Batman (TV series)|Batman]]'' [[live action]] television series.<ref name="Back Issue 2004">{{cite journal|url=http://www.aquamanshrine.net/2008/05/aquaman-meets-blackhawks.html?m=1|journal=[[Back Issue!]]|publisher=[[TwoMorrows Publishing]]|title=The 1968 DC Filmation Pilots|first=Darren |last=McNeil|issue=5|date=July 2004|access-date=May 1, 2019|archive-url=https://web.archive.org/web/20140130220727/http://www.aquamanshrine.net/2008/05/aquaman-meets-blackhawks.html?m=1|archive-date=January 30, 2014}}</ref>
+
+Subsequently, in 1968, the series became ''[[The Batman/Superman Hour]]'', with new Superman/Superboy and Batman segments.<ref name="Back Issue 2004"/> Previously-aired Aquaman shorts were repackaged into the 30-minute ''[[Aquaman (TV series)|Aquaman]]'', which also included the existing guest star segments from ''The Superman/Aquaman Hour of  Adventure''.
+
+The series would be parodied in the ''[[Teen Titans Go! (TV series)|Teen Titans Go!]]'' episode "Classic Titans".
+
+Decades later, the show's format was copied by Warner Bros. Animation and Warner Bros. Television, which created ''[[The New Batman/Superman Adventures]]'', a show which united episodes of ''[[Batman: The Animated Series]]'' and ''[[Superman: The Animated Series]]'' into one hour of episodes utilizing old episodes of both shows with new episodes. This show ran on [[The WB]]'s Saturday morning block, [[Kids' WB]], from 1997-2000.
+
+==Influence==
+{{Unreferenced section|date=January 2014}}
+The show continued to evolve a narrative format that had been started with the original Superman radio show, featuring a narrator who served to both compress and dramatize the storytelling. Whereas the first season of ''The New Adventures of Superman'' had featured longtime radio narrator, [[Jackson Beck]], ''The Superman/Aquaman Hour of  Adventure'' was the first to feature actor [[Ted Knight]], who had made his Filmation debut as the narrator of the ''Adventures of Superboy'' segments late in the previous season of ''The New Adventures of Superman''. Knight would become the main voice used in the narration of DC cartoons for over a decade, and remained the unofficial "voice of DC" even during the first year the cartoons were produced by [[Hanna-Barbera]] under the ''[[Super Friends]]'' banner.
+
+==Episodes==
+
+===Aquaman===
+[[Image:Filmation Aquaman.jpg|thumb|right|Aquaman in ''The Superman/ Aquaman Hour of Adventure'']]
+
+Thirty-six Aquaman segments were produced:
+
+# "Menace of the Black Manta" - Aquaman and Aqualad must stop [[Black Manta]]'s attempt to sink a mid-ocean luxury liner.
+# "The Rampaging Reptile-Men" - A hydropower relay station for Atlantis is attacked by maniacal reptile beings.
+# "The Return of Nepto" - A Viking, frozen and sunk to the sea bottom, is accidentally revived, and attempts to conquer Atlantis.
+# "The Fiery Invaders" - Sun beings attack Earth to dry out its oceans.
+# "Sea Raiders" - Alien big game hunters land in the ocean.
+# "War of the Water Worlds" - Mera is captured by a brutal plant being in a watery world beneath the sea.
+# "The Volcanic Monster" - A lava giant tears open a volcano and battles Aquaman.
+# "The Crimson Monster From The Pink Pool" - A monster that spews deadly acid from its tentacles marches toward Atlantis.
+# "The Ice Dragon" - A dragon who can freeze anything battles Aquaman.
+# "The Deadly Drillers" - Mole men use drilling submarines to attack Atlantis.
+# "Vassa, Queen of the Mermen" - An evil sea queen attacks Atlantis with [[sperm whale]]-shaped submarines.
+# "The Microscopic Monsters" - Aquaman has invented an enlarging ray, but the device is stolen by [[Black Manta]].
+# "The Onslaught of the Octomen" - An advanced race of eight-armed beings capture Aquaman.
+# "Treacherous is the Torpedo Man" - The Torpedo Man, an armored being that can swim at super speed, lures the Aqua team to an unstable pirate wreck.
+# "The Satanic Saturnians" - Alien fish beings from Saturn attack the Earth.
+# "The Brain, The Brave and the Bold" - The Brain, a mutant scientist, uses his intelligence to combat Aquaman.
+# "Where Lurks the Fisherman!" - A sea pirate called [[Fisherman (comics)#In other media|the Fisherman]] rigs a trap at the Aquacave.
+# "Mephisto's Marine Marauders" - A Satanic marauder and his men attack an oxygen exchange plant before attacking Atlantis.
+# "Trio of Terror" - While spying, Aqualad learns Black Manta and the Brain have allied with Queen Vassa in an attempt to overthrow Aquaman and Mera as the leaders of Atlantis.
+# "The Torp, The Magneto and the Claw" - The Torpedo Man teams up with two other armored beings named Magneto and the Claw in a plot to destroy Aquaman.
+# "Goliaths of the Deep-Sea Gorge" - A mermaid society is attacked by a mastodon-like sea giant.
+# "The Sinister Sea Scamp" - A raider with a powerful animator beam turns a boulder of poisonous phosphorus into a sea giant.
+# "The Devil Fish" - Aquaman helps the Navy test an undersea fightercraft, a ship that is captured by Black Manta.
+# "The Sea Scavengers" - A gang of pirates wield a giant submarine robot.
+# "In Captain Cuda's Clutches" - A pirate with a giant starfish raids a bed of crystals.
+# "The Mirror-Man From Planet Imago" - The Brain receives a being molded into a perfect double of Aquaman from Reflecto of the planet Imago in a plot to take over Atlantis. Features a voice cameo by [[Vic Perrin]].
+# "The Sea Sorcerer" - Aquaman must deal with an evil warlock.
+# "The Sea-Snares of Captain Sly" - A sky pirate battles the Aqua team.
+# "The Undersea Trojan Horse" - Mera unwittingly opens an artificial seahorse that launches an attack on Atlantis.
+# "The Vicious Villainy Of Vassa" - Vassa commands a fleet of laser-drill ships for another attack on Atlantis.
+# "Programmed For Destruction" - The Brain uses a powerful computer that calculates the formula for a ray that will make sea beings float helplessly to the ocean surface, until Aquaman recruits the help of a cyclopian fish to stop him.
+# "The War of the Quatix and the Bimphars" - Aquaman and Aqualad are called to the surface, where they are commissioned by NASA to explore an all-ocean planet called Q-344. While there, they discover that two races, the fish-like Quatix and the amphibious Bimphars (who live on a small island that is the only land on the planet), are at war.
+# "The Stickmen of Stygia" - A prank by Mera and Aqualad that goes wrong winds up helping them defeat an attack by cyclopian beings.
+# "Three Wishes to Trouble" - A mischievous sea genie grants three wishes to Aqualad that cause havoc.
+# "The Silver Sphere" - A large metallic ball that opens the ocean floor and creates lavish plant growth becomes the source of conflict between two sea-dwelling races, the Tortoids and the Lizard People.
+# "To Catch a Fisherman" - The Fisherman sets a trap for Aquaman that backfires.
+
+===Guest stars===
+[[Image:Filmation Teen Titans 1960s.jpg|right|thumb|The [[Teen Titans]] in ''The Superman/Aquaman Hour of Adventure''.]]
+
+;The Atom
+# "Invasion of the Beetle-Men" - Alien insects land outside a nuclear plant to destroy the station.
+# "The Plant Master" - A criminal scientist gives life to plants for malevolent purposes.
+# "The House of Doom" - A scientist teams with an alien warlord.
+
+;The Flash (and Kid Flash)
+# "The Chemo-Creature" - A radiation experiment gone wrong creates a powerful creature out of an ordinary ant.
+# "Take a Giant Step" - A criminal scientist unleashes a powerful robot to battle The Flash and Kid Flash.
+# "To Catch a Blue Bolt" - Blue Bolt, an alien being with the same superspeed as The Flash, attacks the Earth.
+
+;Green Lantern
+# "Evil is as Evil Does" - The Guardians of the Universe summon Green Lantern to battle [[Evil Star]], a criminal with superpowers identical to Green Lantern's.
+# "The Vanishing World" - A space fugitive captures Kairo to divert Green Lantern from a breakout of prisoners on a penal planet.
+# "Sirena, Empress of Evil" - An alien queen attacks the planet Oa.
+
+;Hawkman 
+# "Peril from Pluto" - Hawkman must fly to [[Pluto]] to defeat an interplanetary brigand whose laser ray is decimating Earth.
+# "A Visit to Venus "- Octo-armed aliens capture a crewed space probe and use it to lure Hawkman to a trap.
+# "The Twenty Third Dimension" - Malevolent pranksters from Jupiter use teleportation rays on Hawkman and their jailers.
+
+;Justice League of America
+# "Between Two Armies" - The warring factions of the Rock People and the Crystal People from [[Mercury (planet)|Mercury]] use Earth as a base for their conflict. The Justice League must bring peace to the warring factions before Earth ends up in the crossfire.
+# "Target Earth" - A criminal warlord named Rom-Nex uses a gravity device to attack Earth. The Justice League are warned in time by a rebel named Val-Kar.
+# "Bad Day on Black Mountain" - A malevolent warlord named Mastermind lures the Justice League to a trap on a mammoth desert mesa so that they will not interfere in his plans to take over Earth.
+
+;Teen Titans
+# "The Monster Machine" - An uncrewed spaceship unleashes multi-armed robots to attack Earth.
+# "The Space Beast Round-Up" - Alien hunters must jettison vicious creatures else their damaged craft will crash, and the Titans must find the now-rampaging beasts.
+# "Operation: Rescue" - A scientist and his son must be rescued from an alien tribe high in the mountains.
+
+===Superboy===
+''<blockquote>See [[The Adventures of Superboy (TV series)]]</blockquote>
+
+===Superman===
+''<blockquote>See [[The New Adventures of Superman (TV series)]]</blockquote>
+
+==Voice cast==
+===Credited actors===
+* [[Bud Collyer]] as [[Superman|Clark Kent / Superman]] (Superman and Justice League segments)
+* [[Bob Hastings]] as Young [[Superboy (Kal-El)|Clark Kent / Superboy]] (Superboy segments)
+* [[Jackson Beck]] as Narrator (Superman segments), [[Perry White]] (Superman segments), [[Lex Luthor]] (Superman segments), Beany Martin (Superman segments)
+* [[Ted Knight]] as Narrator (Superboy, Aquaman, Atom, Flash, Green Lantern, Hawkman, Justice League and Teen Titans segments),  Imp (Aquaman Segments), Tusky (Aquaman segments), [[Black Manta]] (Aquaman segments), Torpedo Man (Aquaman segments), Blue Bolt (Flash segments)
+* [[Joan Alexander]] as [[Lois Lane]] (Superman segments)
+* Cliff Owens as [[Brainiac (character)|Brainiac]] (Superman segments), [[Flash (Barry Allen)|Barry Allen / The Flash]] (Flash and Justice League segments)
+* [[Jack Grimes (actor)|Jack Grimes]] as [[Jimmy Olsen]] (Superman segments)
+* [[Julie Bennett]] as [[Donna Troy|Donna Troy / Wonder Girl]] (Teen Titans segments)
+* Gilbert Mack as Additional Voices (Superman segments)
+* [[Janet Waldo]] as [[Lana Lang]] (Superboy segments)
+* [[Marvin Miller (actor)|Marvin Miller]] as [[Aquaman]] (Aquaman segments)
+* [[Jerry Dexter]] as [[Garth (comics)|Garth / Aqualad]] (Aquaman and Teen Titans segments)
+* Diana Maddox as [[Mera (comics)|Mera]] (Aquaman segments), Queen Vassa (Aquaman segments), Queen Sirena (Green Lantern segments)
+
+===Uncredited actors===
+* [[Tommy Cook (actor)|Tommy Cook]] as [[Wally West|Kid Flash]] (Flash and Teen Titans segments)
+* [[Paul Frees]] as [[Guardians of the Universe]] (Green Lantern segments), Kairo (Green Lantern segments), [[Evil Star]] (Green Lantern segments)
+* [[Pat Harrington, Jr.]] as [[Atom (Ray Palmer)|Atom]] (Atom and Justice League segments), [[Roy Harper (comics)|Speedy]] (Teen Titans segments)
+* [[Gerald Mohr]] as [[Hal Jordan|Green Lantern]] (Green Lantern and Justice League segments)
+* [[Vic Perrin]] as [[Hawkman (Katar Hol)|Hawkman]] (Hawkman and Justice League segments)
+
+==Home media==
+In 1985, [[Warner Home Video]] released eight selected Aquaman episodes of the series on [[VHS]] in the "Super Powers" video collection, along with [[Batman]], [[Superboy]] and [[Superman]]. These videos were re-released in 1996 and are out of print. On October 23, 2007, Warner Home Video (via DC Comics and WBFE) released ''The Adventures of Aquaman: The Complete Collection'' on [[DVD]] in [[DVD region code#1|Region 1]]; the 2-disc set features all 36 Aquaman segments from the series, as well as special features.<ref>{{cite web|url=https://www.amazon.com/The-Adventures-Aquaman-Complete-Collection/dp/B000TSTEMS/ref=pd_sim_74_1?ie=UTF8&refRID=01KKZGT8DWREEDRM0RAA|title=Amazon.com: The Adventures of Aquaman: The Complete Collection (DC Comics Classic Collection): Aquaman: Movies & TV|work=amazon.com}}</ref>
+
+Warner Home Video (via [[DC Comics|DC Comics Entertainment]] and [[Warner Bros. Family Entertainment]]) also released ''DC Super Heroes: The Filmation Adventures'' on August 12, 2008. The double DVD set features 18 cartoons starring [[Hawkman]], [[Green Lantern]], [[Flash (comics)|the Flash]], [[the Atom]], the original 1960s [[Teen Titans]] and the [[Justice League of America]].<ref>{{cite web|url=https://www.amazon.com/DC-Super-Heroes-Filmation-Adventures/dp/B0018BDDFE/ref=pd_sim_74_5?ie=UTF8&refRID=0RVS8PFQCQA4R487FGZZ|title=Amazon.com: DC Super Heroes: The Filmation Adventures: Various: Movies & TV|work=amazon.com}}</ref> The collection was released in [[DVD region code#2|Region 2]] on October 13, 2008. On February 11, 2014, Warner Home Video re-released the Filmation cartoons across two budget DVDs, one containing the Atom, Flash, and Green Lantern segments, and the other containing the Hawkman, Justice League, and Teen Titans segments.<ref>{{cite web|url=https://www.amazon.com/gp/product/B00HETMEZE?psc=1&redirect=true&ref_=ox_sc_act_title_1&smid=ATVPDKIKX0DER|title=Amazon.com: DC Super Heroes: The Filmation Adventures Vol. 1 (DVD): Various: Movies & TV|work=amazon.com}}</ref><ref>{{cite web|url=https://www.amazon.com/DC-Super-Heroes-Filmation-Adventures/dp/B00IED43X0/ref=pd_sim_74_1?ie=UTF8&refRID=03RZ5PWP8ZW5H6S11EHW|title=Amazon.com: DC Super Heroes: The Filmation Adventures Vol. 2: Various: Movies & TV|work=amazon.com}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0231046}}
+* [https://archive.today/20130102154129/http://www.bcdb.com/cartoons/Filmation_Associates/S-Z/The_Superman___047__Aquaman_Hour_of_Adventure/index.html ''The Superman/Aquaman Hour of Adventure''] at the [[Big Cartoon DataBase]]
+* [http://www.tvparty.com/sat67.html TV Party - Saturday Mornings 1967]
+* [https://web.archive.org/web/20060903064517/http://www.eskimo.com/~tegan/aqua/media/tvshow.html The Aquaman TV Series]
+* [http://www.supermansupersite.com/filmation.html Superman Super Site - The New Adventures of Superman]
+* [https://web.archive.org/web/20070927175134/http://captain.custard.org/classic/jlatv3.html JLA on Television]
+* [https://web.archive.org/web/20051121005048/http://www.titanstower.com/source/info/animatedfilm.html Titans Tower Info: Animated Titans]
+* [http://www.animatedsuperheroes.com/2008/10/supermanaquaman-hour-of-adventure-theme.html Animated Superheroes] - Superman/Aquaman Hour of Adventure theme song.
+
+{{Superman in other media}}
+{{Aquaman}}
+{{Justice League}}
+{{Teen Titans}}
+{{Children's programming on CBS in the 1960s}}
+{{DC Comics animated TV series}}
+
+{{DEFAULTSORT:Superman Aquaman Hour Of Adventure, The}}
+[[Category:1960s American animated television series]]
+[[Category:1967 American television series debuts]]
+[[Category:1968 American television series endings]]
+[[Category:CBS original programming]]
+[[Category:Aquaman in other media]]
+[[Category:Superman television series by Filmation]]
+[[Category:DC Comics animated television series by Filmation]]
+[[Category:Animated television shows based on DC Comics]]
+[[Category:Television series by Warner Bros. Television Studios]]
+[[Category:American children's animated action television series]]
+[[Category:American children's animated superhero television series]]
+[[Category:Television shows directed by Hal Sutherland]]

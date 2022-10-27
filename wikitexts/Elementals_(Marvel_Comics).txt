@@ -1,0 +1,61 @@
+{{short description|Fictional organization in the Marvel Universe}}
+{{other uses|Elementals (comics)}}
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+||name=Elementals
+|image=
+|imagsize=
+|caption=
+|publisher=[[Marvel Comics]]
+|debut=''[[Supernatural Thrillers]]'' #8 (August 1974)
+|creators=[[Tony Isabella]]<br/>[[Val Mayerik]]
+|base=
+|members=Hellfire<br>Hydron<br>Magnum<br>Zephyr
+|cat= teams
+|subcat=Marvel Comics
+|hero=
+|villain=y
+|sortkey=Elementals (Marvel Comics)
+}}
+The '''Elementals''' is a fictional organization appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+A variation of the Elementals appeared in the 2019 [[Marvel Cinematic Universe]] film ''[[Spider-Man: Far From Home]]''.
+
+==Publication history==
+The Elementals first appeared in ''[[Supernatural Thrillers]]'' #8 (August 1974), and were created by [[Tony Isabella]] and [[Val Mayerik]].
+
+The group subsequently appears in ''Supernatural Thrillers'' #9–15 (October 1974 – October 1975) <!-- ''Dracula Lives'' #61 (December 1975), No such tissue --> and ''Ms. Marvel'' #11–12 (November–December 1977).
+
+==Fictional biography==
+The Elementals are four extradimensional humanoids who became immortals with power over natural forces and ruled a kingdom on Earth before the rise of the original [[Atlantis (Marvel Comics)|Atlantis]]. They are Hydron, lord of the waters; Magnum, master of the earth; Hellfire, wielder of flame; and Zephyr, mistress of the winds. The Elementals used [[N'Kantu, the Living Mummy]] as a pawn against the [[Living Monolith]] to obtain the Ruby Scarab from them. However, Zephyr betrayed the other Elementals and allied with N'Kantu. The Elementals attacked Zephyr, the Living Mummy, and their allies and gained the Scarab from them. When the Elementals tried to release their energies through the Scarab, they were blasted off Earth.<ref>''Supernatural Thriller'' #9–15. Marvel Comics.</ref>
+
+The Elementals were later returned to Earth and pursued Zephyr and the Scarab, coming into conflict with the entity [[Hecate (Marvel Comics)|Hecate]]. Taking Zephyr hostage, Hellfire and Hydron forced her allies to recover the Scarab. [[Carol Danvers|Ms. Marvel]] arrived and together with Hecate, fought the Elementals, defeating them one by one.<ref>''Ms. Marvel'' #11–12. Marvel Comics.</ref>
+
+During the 2008 — 2009 "[[Dark Reign (comics)|Dark Reign]]" storyline, [[Quasimodo (comics)|Quasimodo]] researched the Elementals alongside other villains for [[Norman Osborn]]. He speculated that they could be aliens from the Axi-Tun or the Horusians.<ref>''Dark Reign Files''. Marvel Comics.</ref>
+
+The Elementals were later captured by the [[Collector (character)|Collector]], save for Zephyr.<ref>''Astonishing Thor'' (May, 2011)</ref>
+
+==Team lineup==
+* '''Hellfire''' – The leader of the villainous group, who can generate fire and flames. 
+* '''Hydron''' – A foe with aquatic powers, including the ability to control water.
+* '''Magnum''' – He has abilities that allow manipulation of earth, minerals, and rock.
+* '''Zephyr''' – The sole female of the team who has the power to control wind, sky and air and thereby affect many of its aspects.
+
+==In other media==
+A variation of the Elementals appear in the 2019 live-action film ''[[Spider-Man: Far From Home]]''.<ref>{{Cite web |url=https://screenrant.com/spider-man-far-home-elementals-confirmed-hydro-man-molten-man/ |title=Confirmed: Spider-Man: Far From Home's Elemental Villains Based on B-List Villains |last=Hullender |first=Tatiana |publisher=[[Screen Rant]] |date=May 8, 2019 |access-date=May 8, 2019 |archive-url=https://web.archive.org/web/20190508202625/https://screenrant.com/spider-man-far-home-elementals-confirmed-hydro-man-molten-man/ |archive-date=May 8, 2019 |url-status=live}}</ref> This version of the group consists of the '''Wind''', '''Earth''', '''Fire''', and '''Water Elemental''', who are modeled after [[Cyclone (Marvel Comics)|Cyclone]], [[Sandman (Marvel Comics)|Sandman]], [[Molten Man]], and [[Hydro-Man]] respectively.<ref>{{Cite web|url=https://www.cinemablend.com/news/2476052/how-kevin-feige-and-jon-watts-feel-about-potentially-bringing-green-goblin-and-doc-ock-back-to-the-spider-man-movies|title=How Kevin Feige And Jon Watts Feel About Potentially Bringing Green Goblin And Doc Ock Back To The Spider-Man Movies|date=2019-07-04|website=CINEMABLEND|access-date=2019-07-05}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/elementl.htm|Elementals}}
+* {{Marveldatabase|Elementals}}
+
+{{Ms. Marvel}}
+{{Spider-Man}}
+
+[[Category:Characters created by Tony Isabella]]
+[[Category:Characters created by Val Mayerik]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Fictional characters with immortality]]
+[[Category:Marvel Comics extraterrestrial supervillains]]

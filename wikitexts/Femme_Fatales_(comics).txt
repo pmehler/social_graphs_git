@@ -1,0 +1,73 @@
+{{short description|Fictional comic book group}}
+{{Notability|date=August 2018}}
+{{Infobox comics organization| <!--Wikipedia:WikiProject Comics-->
+|image=FemmeFatals.JPG
+|imagesize=250
+|caption=''[[The Amazing Spider-Man]]'' #340
+|name=Femme Fatales
+|publisher=[[Marvel Comics]]
+|debut=''[[The Amazing Spider-Man]]'' #340 (Oct. 1990)
+|creators= [[Erik Larsen]]<br />[[David Michelinie]]
+|base=
+|members=Knockout<br />Bloodlust<br />[[Mindblast]]<br />Whiplash
+|subcat=Marvel Comics
+|hero=
+|villain=y
+}}
+The '''Femme Fatales''' are a fictional group of female characters appearing in [[American comic book]]s published by [[Marvel Comics]]. They are often depicted as antagonists to the superhero character [[Spider-Man]] and [[Captain America]].
+
+==Fictional team history==
+The Femme Fatales are villains and [[Mutant (Marvel Comics)|mutants]] that serve as mercenaries for hire. Group members Bloodlust and Whiplash have a history of working together prior to joining the Femme Fatales, as members of a previous group called the Band of Baddies.<ref>''Marvel Comic Presents'' #48</ref> They were hired by fellow villain the [[Chameleon (comics)|Chameleon]] in the disguise of Dr. Turner to threaten an ambassador. Spider-Man intervened and saved the ambassador, making him an enemy of the Femme Fatales. They then joined forces with other villains the [[Mac Gargan|Scorpion]] and the [[Tarantula (Marvel Comics)#Luis Alvarez|Tarantula]], but all of them were defeated by Spider-Man and his ally the [[Black Cat (Marvel Comics)|Black Cat]]. Though the villains got away.<ref>''The Amazing Spider-Man'' #340, 342-343.</ref>
+
+The Femme Fatales later received an invitation to join [[Superia]] and her organization of female criminals, the [[Femizons]]. They accepted, and battled [[Captain America]] and the [[Paladin (comics)|Paladin]] in the process.<ref>''Captain America'' #389-392</ref>
+
+The group would splinter and disband sometime later: Bloodlust and Whiplash was seen at the [[Advanced Idea Mechanics|A.I.M.]] Weapons Expo.<ref>''Captain America'' #411-413</ref>
+
+Bloodlust later lost her powers after [[Decimation (comics)|Decimation]]. Mindblast, who retained her powers, briefly allied herself with [[Hammerhead (comics)|Hammerhead]] during the "[[Civil War (comics)|Civil War]]" storyline.<ref>''Civil War: War Crimes'' #1</ref>
+
+During the "[[Avengers: Standoff!]]" storyline, Bloodlust and Mindblast were turned into duplicate [[Maria Hill]]s through the powers of [[Kobik]] in order to keep the Avengers away from Pleasant Hill.<ref>''All-New, All-Different Avengers'' #8. Marvel Comics.</ref>
+
+During the "[[Hunt for Wolverine]]" storyline, the Femme Fatales are joined by [[Viper (Madame Hydra)|Viper]] and [[Sapphire Styx]], with Whiplash changing her name to Snake Whip. The Fatales ambush [[Kitty Pryde]], [[Rogue (comics)|Rogue]], [[Domino (comics)|Domino]], [[Jubilee (comics)|Jubilee]] and [[Betsy Braddock|Psylocke]] at the King's Impresario Restaurant at Hightown, [[Madripoor]].<ref>''Hunt for Wolverine: Mystery in Madripoor'' #1-2. Marvel Comics.</ref> Soon joined by [[Magneto (Marvel Comics)|Magneto]], himself recently taken captive by the Fatales, the X-Men combat the Femme Fatales; during the encounter Sapphire Styx uses her lifeforce-draining ability on Psylocke, but this later backfires and Sapphire Styx is destroyed, enabling Psylocke to create a new body for herself from Sapphire's soul power. Viper gets away with Magneto pursuing her, and the Femme Fatales are locked up.<ref>''Hunt for Wolverine: Mystery in Madripoor'' #3-4. Marvel Comics.</ref>
+
+==Members==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! width="13%" |Member !!width="20%"| First appearance !!width="67%"| Description
+|-
+| '''Bloodlust''' || ''Marvel Comics Presents'' #49 (May 1990) || '''Beatta Dubiel''' is a former mutant who possessed superhuman senses, speed, agility, durability, a healing factor and razor sharp claws and fangs. She was one of the many mutants who were depowered after [[Decimation (comics)|Decimation]], though she continues to be a trained assassin without her powers.
+|-
+| '''Knockout''' || ''The Amazing Spider-Man'' #340 (Oct. 1990) || '''Elizabeth Rawson''' is the original leader of the Femme Fatales, and has superhuman strength and endurance. Cybernetic parts of her costume suggest that her already advanced strength is augmented when needed and also provides body armor.
+|-
+| '''Mindblast''' || ''The Amazing Spider-Man'' #340 (Oct. 1990) || '''Danielle Forte''' is a mutant with powerful telekinetic abilities which she usually fashions into "tractor beams". She was one of the very few mutants to retain their powers after Decimation. At some point later, Mindblast gained the use of telepathy strong enough to combat [[Betsy Braddock|Psylocke]] of the [[X-Men]].
+|-
+| '''[[Sapphire Styx]]''' || ''Marvel Comics Presents'' #1 (Sept. 1988) || '''Sapphire Styx''' is a mutant who has the ability to absorb the lifeforces from her opponents. She was recruited into the Femme Fatales when Viper became their leader and relocated them to [[Madripoor]]. Sapphire exploded when Psylocke and a soul sliver of Wolverine overloaded her.
+|-
+| '''Snake Whip''' || ''Marvel Comics Presents'' #49 (May 1990) || '''Leeann Foreman''' is a mutant with unrevealed abilities. She previously went by the codename '''Whiplash''', though changed it when Viper took over leadership. She is equipped with three built-in retractable whips that release from each of her wrists.
+|-
+| '''[[Viper (Madame Hydra)|Viper]]''' || ''Captain America'' #110 (Feb. 1969) || '''Ophelia Sarkissian''' is the current leader of the Femme Fatales.
+|}
+
+==Other versions==
+The Femme Fatales also exist as a team in the ''[[Ultimate Marvel]]'' universe. Bloodlust, Knockout, Mindblast and Whiplash briefly encounter the All-New Ultimates.<ref>''All-New Ultimates'' #8</ref>
+
+==In other media==
+In ''[[Marvel: Ultimate Alliance]]'', Femme Fatales is a team bonus for any four-person combination of [[Storm (Marvel Comics)|Storm]], [[Elektra (comics)|Elektra]], [[Spider-Woman (Jessica Drew)|Spider-Woman]], [[Invisible Woman]], and [[Ms. Marvel]].
+
+In ''[[Marvel: Future Fight]]'', Femme Fatales is a team bonus composed of Elektra, Black Cat, and Black Widow.
+
+==See also==
+*[[List of Marvel Comics characters]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvunapp.com/Appendix/femfatal.htm Femme Fatales (Superia's Femizons, Spider-Man foes)]
+
+{{Spider-Man characters}}
+{{Captain America}}
+{{Erik J Larsen}}
+
+[[Category:Marvel Comics supervillain teams]]
+[[Category:Spider-Man characters]]
+[[Category:Marvel Comics female supervillains]]
