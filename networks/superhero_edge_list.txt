@@ -21707,7 +21707,6 @@ Two-Gun_Kid Black_Rider_(comics) {}
 Typeface_(comics) Sally_Floyd_(comics) {}
 Typeface_(comics) Battlestar_(comics) {}
 Typeface_(comics) Spider-Man {}
-Typeface_(comics) X_of_the_Underground {}
 Typeface_(comics) Deadpool {}
 Typeface_(comics) Ben_Urich {}
 Typeface_(comics) Spider-Man_(Pavitr_Prabhakar) {}
@@ -28962,7 +28961,6 @@ Green_Lantern_Corps Ion_(DC_Comics) {}
 Green_Lantern_Corps Doctor_Polaris {}
 Green_Lantern_Corps Atrocitus {}
 Green_Lantern_Corps Hal_Jordan {}
-Green_Lantern_Corps Volthoom {}
 Green_Lantern_Corps Black_Adam {}
 Superman_&_Batman:_Generations Jimmy_Olsen {}
 Superman_&_Batman:_Generations Super_Friends {}
@@ -29028,6 +29026,9 @@ The_Superman/Aquaman_Hour_of_Adventure Pluto_(Marvel_Comics) {}
 The_Superman/Aquaman_Hour_of_Adventure Superboy {}
 The_Superman/Aquaman_Hour_of_Adventure Hal_Jordan {}
 The_Superman/Aquaman_Hour_of_Adventure Wonder_Woman {}
+Elseworld's_Finest:_Supergirl_&_Batgirl Batman {}
+Elseworld's_Finest:_Supergirl_&_Batgirl Lex_Luthor {}
+Elseworld's_Finest:_Supergirl_&_Batgirl Superman {}
 Batman:_Knightfall Bloodlines_(comics) {}
 Batman:_Knightfall Artemis_of_Bana-Mighdall {}
 Batman:_Knightfall Victor_Zsasz {}
