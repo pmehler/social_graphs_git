@@ -1,0 +1,18 @@
+number of nodes: 901
+number of edges: 1297
+
+avg out-degree-dentrality: 0.001599457393020101
+avg in-degree-dentrality: 0.0015994573930201011
+
+avg out-degree: 1.439511653718091
+avg in-degree: 1.439511653718091
+
+median out-degree: 0.0
+median in-degree: 1.0
+
+min out-degree: 0
+min in-degree: 0
+
+max out-degree: 23
+max in-degree: 13
+

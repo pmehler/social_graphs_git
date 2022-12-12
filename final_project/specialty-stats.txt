@@ -1,0 +1,36 @@
+----
+m_I: number of links within specialty
+m_O: number of links outside specialty
+m_U: number of links with unlabelled diseases
+
+p_I: probability of a disease of specialty having a link within specialty
+p_O: probability of a disease of specialty having a link outside specialty
+p_U: probability of a disease of specialty having a link with unlabelled diseases
+
+----
+specialty;m_I;m_O;m_U;p_I;p_O;p_U
+GP / pediatry;2;20;14;0.0128;0.0044;0.002
+allergology;0;6;19;0.0;0.0034;0.0071
+cardiology;1;12;27;0.0055;0.0025;0.0036
+dentist;0;0;1;0.0;0.0;0.0009
+dermatology;60;12;58;0.0366;0.0009;0.0026
+endocrinology;10;18;12;0.0476;0.0034;0.0015
+endodontics;0;0;0;0.0;0.0;0.0
+gastroenterology;70;29;73;0.0264;0.0018;0.0026
+gynecology;12;17;38;0.0171;0.0019;0.0026
+hematology;5;9;22;0.0275;0.0018;0.0029
+hepatology;7;13;22;0.0449;0.0029;0.0031
+infectious disease;13;42;34;0.02;0.0048;0.0024
+internal medicine;1;8;0;0.0833;0.0056;0.0
+nephrology;0;0;5;0.0;0.0;0.0031
+neurology;32;44;51;0.0344;0.0043;0.0031
+neurosurgery;0;0;0;0.0;0.0;0.0
+oncology;4;49;26;0.0303;0.0116;0.004
+orthopedy;3;5;12;0.25;0.0035;0.0056
+otolaryngology;4;22;39;0.019;0.0042;0.0048
+psychiatry;21;21;42;0.0686;0.0034;0.0043
+pulmonology;8;16;43;0.0513;0.0035;0.0061
+rheumatology;52;24;15;0.0942;0.0029;0.0012
+surgery;0;10;1;0.0;0.0139;0.0009
+urology;8;7;23;0.1111;0.0022;0.0048
+----

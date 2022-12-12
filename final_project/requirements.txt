@@ -1,0 +1,6 @@
+networkx
+fa2
+python-louvain
+powerlaw
+fuzzywuzzy
+wordcloud

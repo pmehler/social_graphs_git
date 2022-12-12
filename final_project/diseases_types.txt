@@ -1,0 +1,447 @@
+	disease	specialty 1	specialty 2
+0	multiple_myeloma	hematology	oncology
+1	amyloidosis	hematology	
+2	laryngitis	otolaryngology	
+3	migraine	neurology	
+4	subarachnoid-hemorrhage	neurology	neurosurgery
+5	urticaria_(hives)	dermatology	
+6	heat-rash	dermatology	
+7	post-traumatic_stress_disorder_(ptsd)	psychiatry	psychology
+8	ovarian_cancer	gynecology	
+9	arthritis	rheumatology	
+10	psoriatic-arthritis	rheumatology	
+11	hodgkin_lymphoma	hematology	oncology
+12	liver_disease	hepatology	
+13	fatty-cirrhosis	hepatology	
+14	shingles	dermatology	
+15	eczema	dermatology	
+16	type_2_diabetes	endocrinology	
+17	pancreatitis	gastroenterology	surgery
+18	haemorrhoids_(piles)	gastroenterology	
+19	multiple_sclerosis	neurology	
+20	lupus-	rheumatology	
+21	anorexia_nervosa	psychiatry	endocrinology
+22	motor_neurone_disease_(mnd)	neurology	
+23	lyme-disease	rheumatology	
+24	blood_poisoning_(sepsis)	internal medicine	
+25	pulmonary-embolism	cardiology	
+26	common_heart_conditions	cardiology	
+27	tuberculosis_(tb)	infectious disease	pulmonology
+28	brucellosis	infectious disease	
+29	parkinson's_disease	neurology	
+30	hiv	infectious disease	
+31	irritable_bowel_syndrome_(ibs)	gastroenterology	
+32	skin_cancer_(melanoma)	dermatology	oncology
+33	psoriasis	dermatology	
+34	testicular_cancer	urology	oncology
+35	spleen_problems_and_spleen_removal	hematology	
+36	schistosomiasis	infectious disease	urology
+37	fibromyalgia	rheumatology	
+38	encephalitis	neurology	infectious disease
+39	kawasaki-disease	infectious disease	cardiology
+40	hepatitis_c	hepatology	gastroenterology
+41	hepatitis-a	hepatology	gastroenterology
+42	bile_duct_cancer_(cholangiocarcinoma)	hepatology	
+43	asthma	allergology	immunology
+44	gastroesophageal-reflux-disease	gastroenterology	
+45	pancreatic_cancer	gastroenterology	oncology
+46	hiatus_hernia	gastroenterology	surgery
+47	stroke	neurology	
+48	oral_thrush_in_adults	otolaryngology	
+49	coated-or-white-tongue	endodontics	otolaryngology
+50	gonorrhoea	infectious disease	
+51	meningitis	neurology	infectious disease
+52	epilepticus	neurology	
+53	slapped_cheek_syndrome	GP / pediatry	
+54	roseola	GP / pediatry	
+55	dysphagia_(swallowing_problems)	otolaryngology	
+56	heart-disease	cardiology	
+57	urinary_tract_infection_(uti)	urology	
+58	chronic_fatigue_syndrome	neurology	rheumatology
+59	cystitis	urology	nephrology
+60	thrush	infectious disease	
+61	esophageal-stricture	gastroenterology	
+62	obsessive_compulsive_disorder_(ocd)	psychiatry	psychology
+63	ewing_sarcoma	oncology	GP / pediatry
+64	type_1_diabetes	endocrinology	
+65	mononucleosis-	infectious disease	
+66	stomach_ulcer	gastroenterology	
+67	chronic_myeloid_leukaemia	hematology	oncology
+68	myeloproliferative-neoplasms	hematology	
+69	multiple_sclerosis_(ms)	neurology	
+70	stroke-	neurology	
+71	skin-cancer	dermatology	oncology
+72	celiac_disease	gastroenterology	
+73	irritable-bowel-syndrome	gastroenterology	
+74	heart_attack	cardiology	
+75	gallstones	gastroenterology	
+76	dementia	psychiatry	
+77	rocky-mountain-spotted-fever	infectious disease	
+78	alcohol-related_liver_disease	hepatology	
+79	nonalcoholic-fatty-liver-hepatitis	hepatology	gastroenterology
+80	breast_cancer	oncology	
+81	radial-scars	gynecology	
+82	discoid_eczema	dermatology	
+83	apthous-mouth-ulcers	endodontics	otolaryngology
+84	lymphogranuloma_venereum_(lgv)	gynecology	urology
+85	schizophrenia	psychiatry	
+86	osteoarthritis	rheumatology	orthopedy
+87	bursitis	orthopedy	
+88	bowel_cancer	gastroenterology	
+89	crohn-s-disease	gastroenterology	
+90	hives	allergology	immunology
+91	acute-disseminated-encephalomyelitis	neurology	
+92	genital_herpes	gynecology	urology
+93	lactose_intolerance	gastroenterology	
+94	inflammatory-bowel-disease	gastroenterology	
+95	skin_cancer_(non-melanoma)	dermatology	oncology
+96	molluscum-contagiosum	dermatology	
+97	autoimmune-pancreatitis	gastroenterology	
+98	diabetes	endocrinology	
+99	hemochromatosis	hematology	
+100	appendicitis	surgery	GP / pediatry
+101	lyme_disease	rheumatology	
+102	chronic-fatigue-syndrome	neurology	rheumatology
+103	anaphylaxis	allergology	
+104	pheochromocytoma	endocrinology	oncology
+105	mesothelioma	oncology	pulmonology
+106	myasthenia-gravis	rheumatology	
+107	syphilis	gynecology	urology
+108	trichomonas_infection	gynecology	
+109	swollen_glands	otolaryngology	
+110	polymyalgia_rheumatica	rheumatology	
+111	vasculitis-	rheumatology	neurology
+112	chronic_lymphocytic_leukaemia	oncology	infectious disease
+113	psoriatic_arthritis	rheumatology	dermatology
+114	rheumatoid-arthritis	rheumatology	
+115	pleurisy	pulmonology	surgery
+116	rosacea	dermatology	
+117	nevus-	dermatology	
+118	adrenal-insufficiency	endocrinology	
+119	hepatitis_b	gastroenterology	hepatology
+120	rubella	infectious disease	
+121	hand,_foot_and_mouth_disease	dermatology	infectious disease
+122	cholangitis	gastroenterology	hepatology
+123	mumps	GP / pediatry	
+124	tonsillitis	otolaryngology	
+125	otitis_externa	otolaryngology	
+126	lichen_planus	dermatology	
+127	melanoma	dermatology	oncology
+128	intradermal-nevus	dermatology	
+129	rheumatoid_arthritis	rheumatology	
+130	allergic_rhinitis	allergology	otolaryngology
+131	wegener-s-granulomatosis	pulmonology	otolaryngology
+132	dermatitis_herpetiformis	dermatology	gastroenterology
+133	hematoma	GP / pediatry	
+134	seborrheic-keratoses	dermatology	
+135	mouth_cancer	otolaryngology	endodontics
+136	scabies	dermatology	
+137	prurigo-nodularis	dermatology	
+138	kidney_stones	urology	nephrology
+139	urinary-tract-infection	urology	
+140	gastro-oesophageal_reflux_disease_(gord)	gastroenterology	
+141	autistic_spectrum_disorder_(asd)	psychiatry	psychology
+142	ocd	psychiatry	psychology
+143	transient_ischaemic_attack_(tia)	neurology	
+144	hypoglycemia	endocrinology	
+145	gastroenteritis	gastroenterology	
+146	breast_cancer_(female)	oncology	
+147	fibroadenomas	gynecology	
+148	autoimmune-disease	rheumatology	
+149	indigestion	gastroenterology	
+150	stomach-ulcers	gastroenterology	
+151	phyllodes-tumours	oncology	gynecology
+152	geographic-tongue	endodontics	otolaryngology
+153	cushing-disease	endocrinology	neurosurgery
+154	copd	pulmonology	
+155	reactive-arthritis	rheumatology	
+156	intraductal-papillomas	gynecology	
+157	ringworm_and_other_fungal_infections	dermatology	infectious disease
+158	chronic_pancreatitis	gastroenterology	
+159	ulcerative_colitis	gastroenterology	
+160	sjogren's_syndrome	rheumatology	
+161	lupus	rheumatology	
+162	vitamin-b12-deficiency	GP / pediatry	hematology
+163	vasculitis	rheumatology	neurology
+164	menopause	gynecology	endocrinology
+165	anaemia	hematology	cardiology
+166	sinusitis	otolaryngology	
+167	cold	otolaryngology	
+168	asbestosis	pulmonology	
+169	sarcoidosis	pulmonology	
+170	raynaud's_phenomenon	rheumatology	
+171	atopic_eczema	dermatology	
+172	coronavirus_(covid-19)	infectious disease	GP / pediatry
+173	ulcerative-colitis	gastroenterology	
+174	brain_tumours	neurology	
+175	multiple-sclerosis	neurology	
+176	flu	GP / pediatry	
+177	adenoviruses	GP / pediatry	
+178	cirrhosis	hepatology	
+179	measles	infectious disease	GP / pediatry
+180	hairy-leukoplakia	otolaryngology	
+181	tuberculosis	infectious disease	pulmonology
+182	bronchiectasis	pulmonology	
+183	pneumonia	pulmonology	
+184	depression	psychiatry	psychology
+185	ovarian_cyst	gynecology	
+186	idiopathic_pulmonary_fibrosis	pulmonology	
+187	chlamydia	gynecology	urology
+188	gout	rheumatology	orthopedy
+189	oil-cysts	gynecology	
+190	stomach_cancer	gastroenterology	
+191	esophageal-cancer	gastroenterology	
+192	osteosarcoma	orthopedy	oncology
+193	hemangioma	dermatology	GP / pediatry
+194	pelvic-inflammatory-disease	gynecology	GP / pediatry
+195	tubo-ovarian-abscess	gynecology	
+196	constipation	gastroenterology	
+197	lung_cancer	pulmonology	oncology
+198	labyrinthitis	otolaryngology	GP / pediatry
+199	reactive_arthritis	rheumatology	
+200	scleroderma	dermatology	rheumatology
+201	acute_myeloid_leukaemia	hematology	oncology
+202	chronic-myelogenous-leukemia	hematology	oncology
+203	spondylopathies	rheumatology	orthopedy
+204	oesophageal_cancer	gastroenterology	oncology
+205	bladder_cancer	urology	oncology
+206	panic_disorder	psychiatry	
+207	malignant_brain_tumour_(cancerous)	neurology	oncology
+208	pseudotumor-cerebri	neurology	ophtalmology
+209	crohn's_disease	gastroenterology	
+210	colitis	gastroenterology	
+211	colorectal_cancer	gastroenterology	oncology
+212	anal_cancer	gastroenterology	oncology
+213	ebola_virus_disease	infectious disease	
+214	hamartoma	neurology	
+215	sjögren-s-syndrome	rheumatology	
+216	contact-dermatitis	dermatology	
+217	prostate_cancer	urology	
+218	fibrosis-	pulmonology	
+219	anxiety	psychiatry	psychology
+220	ptsd	psychiatry	psychology
+221	heart-attack	cardiology	
+222	sepsis	infectious disease	
+223	attention_deficit_hyperactivity_disorder_(adhd)	psychiatry	psychology
+224	clostridium_difficile	gastroenterology	
+225	diverticulitis-	gastroenterology	
+226	endocarditis	cardiology	
+227	congestive-heart-failure	cardiology	
+228	achalasia	gastroenterology	hepatology
+229	yellow_fever	infectious disease	
+230	typhoid	infectious disease	
+231	carcinoid_syndrome_and_carcinoid_tumours	oncology	endocrinology
+232	dengue-fever	infectious disease	
+233	gastroparesis	gastroenterology	
+234	bacterial_vaginosis	gynecology	
+235	candidiasis	gynecology	dermatology
+236	alzheimer-s-disease	neurology	
+237	celiac-disease	gastroenterology	
+238	whooping_cough	GP / pediatry	
+239	bowel-obstruction	gastroenterology	
+240	coeliac_disease	gastroenterology	
+241	ankylosing_spondylitis	rheumatology	
+242	hypoglycaemia_(low_blood_sugar)	endocrinology	
+243	bipolar-disorder	psychiatry	
+244	pelvic_inflammatory_disease	GP / pediatry	gynecology
+245	diverticulitis	gastroenterology	
+246	headaches-	neurology	
+247	syncope-	neurology	cardiology
+248	hiatal-herias	gastroenterology	surgery
+249	seborrheic-dermatitis	dermatology	
+250	verruca-vulgaris	dermatology	
+251	head_and_neck_cancer	otolaryngology	
+252	ankylosing-spondylitis	rheumatology	
+253	bronchitis	pulmonology	
+254	vaginitis	gynecology	
+255	diabetes-mellitus	endocrinology	
+256	ganglion_cyst	orthopedy	dermatology
+257	soft_tissue_sarcomas	oncology	
+258	arteriovenous-malformation-	neurosurgery	
+259	croup	otolaryngology	pulmonology
+260	fat-necrosis	gynecology	
+261	hepatitis-d	hepatology	gastroenterology
+262	congenital_heart_disease	cardiology	
+263	endometriosis	endocrinology	gynecology
+264	chronic_obstructive_pulmonary_disease	pulmonology	
+265	ectopic-pregnancy	gynecology	
+266	pityriasis-rosea	dermatology	
+267	endodontic-lesion	endodontics	
+268	glandular_fever	infectious disease	
+269	strep-throat	otolaryngology	
+270	sebaceous-hyperplasia	dermatology	
+271	adult-onset-still-s-disease	rheumatology	
+272	neuromyelitis-optica-spectrum-disorder	neurology	ophtalmology
+273	hemorrhoids	gastroenterology	
+274	cystitis-	urology	
+275	chickenpox	GP / pediatry	
+276	mastitis	gynecology	
+277	neurofibroma	neurology	neurosurgery
+278	diverticular_disease_and_diverticulitis	gastroenterology	
+279	myelodysplastic-syndromes	hematology	oncology
+280	stress	psychiatry	psychology
+281	mesenteric-ischemia	cardiology	
+282	sle	rheumatology	
+283	lead-poisoning	internal medicine	
+284	viral-gastroenteritis	gastroenterology	
+285	ringworm	dermatology	
+286	viral-arthritis	rheumatology	
+287	infectious-mononucleosis	infectious disease	
+288	heart_failure	cardiology	
+289	chronic-kidney-disease	nephrology	
+290	breast_cancer_(male)	oncology	
+291	gynecomastia	endocrinology	
+292	hepatitis-e	hepatology	gastroenterology
+293	neuropathy	neurology	
+294	esophagitis	gastroenterology	allergology
+295	personality_disorder	psychiatry	
+296	radiologically-isolated-syndrome	neurology	
+297	stomach-flu	gastroenterology	
+298	cervicitis	gynecology	GP / pediatry
+299	soft_tissue_sarcoma	oncology	
+300	morton-s-neuroma	neurosurgery	orthopedy
+301	cholecystitis	gastroenterology	
+302	metabolic-syndrome	endocrinology	cardiology
+303	bacterial-gastroenteritis	GP / pediatry	
+304	abdominal_aortic_aneurysm	cardiology	
+305	trigeminal_neuralgia	neurology	
+306	hypothyroidism	endocrinology	
+307	chilblains	dermatology	cardiology
+308	duct-ectasia	gynecology	
+309	impetigo	dermatology	
+310	malaria	infectious disease	
+311	epilepsy	neurology	
+312	diverticulosis	gastroenterology	
+313	cherry-angioma	dermatology	
+314	dermatitis-herpetiformis	dermatology	
+315	abscess	GP / pediatry	dermatology
+316	fibromyalgia-	rheumatology	
+317	neuroendocrine_tumours	oncology	endocrinology
+318	acute-hemorrhage	surgery	
+319	bunion	orthopedy	
+320	bipolar_disorder	psychiatry	
+321	liver-abscess	gastroenterology	
+322	kaposi-sarcoma	infectious disease	
+323	adenomyosis	gynecology	
+324	cystic-fibrosis	pulmonology	
+325	herpes	dermatology	
+326	nasopharyngeal_cancer	otolaryngology	
+327	lymphoma	hematology	
+328	sarcoma	oncology	orthopedy
+329	testicular-torsion	urology	
+330	lung-cancer	pulmonology	oncology
+331	vaginal_thrush	gynecology	
+332	adenosis	gynecology	
+333	anxiety-disorders	psychiatry	psychology
+334	erhlichiosis	infectious disease	
+335	nephrolithiasis	urology	nephrology
+336	lipoma	dermatology	
+337	gerd	gastroenterology	
+338	hepatitis	hepatology	gastroenterology
+339	cluster-headaches	neurology	
+340	influenza	GP / pediatry	
+341	stasis-ulcers-	cardiology	surgery
+342	bacillary-angiomatosis	infectious disease	
+343	crohn-disease	gastroenterology	
+344	non-hodgkin_lymphoma	hematology	oncology
+345	polymyalgia-rheumatica	rheumatology	
+346	acne	dermatology	
+347	hypovolemia	internal medicine	
+348	enteropathic-arthritis	rheumatology	
+349	infection	internal medicine	
+350	amelanotic-melanoma	dermatology	
+351	influenza-	GP / pediatry	
+352	appendageal-tumours	dermatology	oncology
+353	xanthogranulomatous-cholecystitis	gastroenterology	
+354	hyperglycaemia_(high_blood_sugar)	endocrinology	
+355	axial-spondyloarthritis	rheumatology	
+356	dermatitis	dermatology	
+357	gallbladder-agenesis	gastroenterology	
+358	trichomoniasis	gynecology	urology
+359	substance-abuse	psychiatry	psychology
+360	generalized-anxiety-disorder	psychiatry	psychology
+361	colon-cancer	gastroenterology	oncology
+362	panic-disorder	psychiatry	psychology
+363	lobular-hyperplasia	gynecology	
+364	peptic-ulcer-disease	gastroenterology	
+365	diabetic-ketoacidosis	endocrinology	
+366	thrush_in_men	urology	
+367	urinary-tract-infections	urology	
+368	bacterial-tracheitis	otolaryngology	
+369	scarlet_fever	GP / pediatry	dermatology
+370	herpes-	dermatology	
+371	alzheimer-s	neurology	
+372	bladder-cancer	urology	oncology
+373	genital-warts	dermatology	
+374	cholesteryl-ester-storage-disease	gastroenterology	
+375	oral-lichen-planus	dentist	GP / pediatry
+376	rhabdomyosarcoma	orthopedy	oncology
+377	genital_warts	gynecology	urology
+378	aortic_aneurysm_and_dissection	cardiology	
+379	neuroblastoma:_children	neurology	oncology
+380	fibroids	gynecology	
+381	toothache	dentist	
+382	liver_tumours	gastroenterology	hepatology
+383	venous_leg_ulcer	cardiology	surgery
+384	middle_ear_infection_(otitis_media)	otolaryngology	
+385	retinoblastoma	ophtalmology	neurology
+386	monkeypox	infectious disease	
+387	dystonia	neurology	
+388	arterial_thromboembolism	hematology	
+389	brain_stem_death	neurology	neurosurgery
+390	threadworms	GP / pediatry	
+391	bone_cancer	orthopedy	oncology
+392	cold_sore	dermatology	
+393	hairy_cell_leukaemia	hematology	oncology
+394	nasal_and_sinus_cancer	otolaryngology	
+395	gum_disease	dentist	
+396	vulval_cancer	gynecology	oncology
+397	norovirus	GP / pediatry	
+398	langerhans_cell_histiocytosis	hematology	oncology
+399	cystic_fibrosis	pulmonology	
+400	cellulitis	dermatology	
+401	laryngeal_(larynx)_cancer	otolaryngology	
+402	bowel_polyps	hepatology	gastroenterology
+403	kidney_infection	nephrology	urology
+404	varicose_eczema	cardiology	dermatology
+405	acute_lymphoblastic_leukaemia	hematology	oncology
+406	iron_deficiency_anaemia	hematology	gastroenterology
+407	septic_shock	internal medicine	
+408	huntington's_disease	neurology	
+409	malnutrition	gastroenterology	
+410	kaposi's_sarcoma	infectious disease	dermatology
+411	gallbladder_cancer	gastroenterology	oncology
+412	vaginal_cancer	gynecology	oncology
+413	kidney_cancer	nephrology	oncology
+414	dental_abscess	dentist	
+415	lymphoedema	cardiology	
+416	neuroblastoma	neurology	oncology
+417	peripheral_neuropathy	neurology	
+418	angioedema	allergology	dermatology
+419	conjunctivitis	ophtalmology	
+420	underactive_thyroid	endocrinology	
+421	spinal_abscess	infectious disease	neurology
+422	acute_cholecystitis	gastroenterology	
+423	addison's_disease	endocrinology	
+424	meniere's_disease	otolaryngology	neurology
+425	non-alcoholic_fatty_liver_disease_(nafld)	hepatology	gastroenterology
+426	hepatitis_a	hepatology	gastroenterology
+427	benign_prostate_enlargement	urology	
+428	dementia_with_lewy_bodies	neurology	
+429	overactive_thyroid	endocrinology	
+430	venous_thromboembolism	hematology	
+431	womb_(uterus)_cancer	gynecology	oncology
+432	food_poisoning	GP / pediatry	
+433	thyroid_cancer	oncology	otolaryngology
+434	mouth_ulcer	dentist	otolaryngology
+435	osteoporosis	rheumatology	
+436	wilms’_tumour	nephrology	oncology
+437	acute_pancreatitis	gastroenterology	
+438	pelvic_organ_prolapse	gynecology	urology
+439	liver_cancer	hepatology	oncology
+440	irritable_hip	orthopedy	
+441	pressure_ulcers	dermatology	surgery
+442	cervical_cancer	gynecology	oncology
+443	paget's_disease_of_the_nipple	gynecology	
+444	restless_legs_syndrome	neurology	
+445	sickle_cell_disease	hematology	
